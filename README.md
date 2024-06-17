@@ -1,7 +1,24 @@
-# Vue 3 + Vite
+# es-big-screen 大屏可视化项目模板
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+这是一个基于 Vue 3、Echarts、高德地图和 Pinia 开发的大屏可视化项目，提供了如下功能
 
-## Recommended IDE Setup
+- 大屏适配
+- 大屏适配
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+<p align="middle">
+	<img src="https://vangleer.github.io/vue-visualization/banner.gif" />
+</p>
+
+## 基本使用
+
+```sh
+git clone https://github.com/minjie05/vue-visualization.git
+
+cd vue-visualization
+
+npm i
+
+npm run dev
+
+# 访问 http://localhost:5173/
+```
